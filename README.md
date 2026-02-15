@@ -19,15 +19,23 @@ Nuvopad is designed for those who appreciate the speed, aesthetics, and keyboard
 
 ### Key Features
 
-*   **Local-First Architecture**: Your data resides on your device. No cloud lock-in.
-*   **VS Code Aesthetic**: A familiar, dark-themed interface that feels like home for developers.
-*   **Markdown Support**: First-class Markdown editing with syntax highlighting and live preview.
-*   **Source Mode**: Toggle seamlessly between WYSIWYG, and raw source editing.
-*   **Developer Friendly**: Keyboard shortcuts, command paleete-like navigation, and code snippets.
-*   **Focus Mode** (Pro): Distraction-free writing environment.
-*   **Templates** (Pro) 
-Create custom templates to standardize your engineering logs, meeting notes, or bug reports.
+*   **Local-First Architecture**: Your data resides securely on your device. No cloud lock-in.
+*   **VS Code Aesthetic**: A familiar, dark-themed interface with syntax highlighting that feels like home.
+*   **Markdown Support**: First-class Markdown editing with GFM support (tables, task lists, code blocks).
+*   **Source Mode**: seamless toggle between WYSIWYG and a raw, line-numbered source code editor (`Ctrl+Alt+S`).
+*   **Developer Friendly**: Keyboard shortcuts, command palette-like navigation, and code snippets.
+*   **Organization**: Powerful tagging system, nested notebooks, and instant search.
 
+### Pro Features 💎
+
+Unlock the full potential of Nuvopad with the Pro add-on:
+
+*   **Default Editor Mode**: Choose your preferred starting environment—**Markdown Source** or **WYSIWYG**—and have it remembered across sessions.
+*   **Focus Mode**: A distraction-free writing environment that hides UI clutter.
+*   **Custom Templates**: Create and reuse templates for engineering logs, meeting notes, bug reports, and more.
+*   **Advanced Theme Control**: Access to exclusive premium themes and customization options.
+*   **Data Restore & Backup**: robust tools to safeguard your notes and restore from backups.
+*   **Attachments**: Drag-and-drop image and file support directly into your notes.
 
 ## Documentation
 
@@ -41,8 +49,7 @@ Create custom templates to standardize your engineering logs, meeting notes, or 
 
 *   **Quick Search**: Press `Ctrl+K` (or focus search bar) to instantly filter through your notes.
 *   **Source Mode**: Press `Ctrl+Alt+S` to toggle the raw Markdown source view for precise editing.
-*   **Templates**: (Pro) Create custom templates to standardize your engineering logs, meeting notes, or bug reports.
-
+*   **Task Lists**: Use `- [ ]` and `- [x]` to create interactive checklists.
 
 ## Download
 
@@ -57,6 +64,7 @@ We are constantly improving Nuvopad. Here is what's on the horizon:
 *   [ ] **Cloud Sync (Optional)**: End-to-end encrypted synchronization across devices.
 *   [ ] **Plugin System**: Community-driven extensions to add new capabilities.
 *   [ ] **Vim Mode**: Enhanced keybindings for modal editing.
+
 ## Support the Developer
 
 Nuvopad is built with passion. If you find value in this tool and wish to support its continued development, consider becoming a patron or buying me a coffee. Your support directly funds new features and maintenance.
