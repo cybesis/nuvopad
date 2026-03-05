@@ -59,7 +59,7 @@ Unlock the full potential of Nuvopad with the Pro add-on:
 
 Available now on Windows.
 
-[**Get it from Microsoft Store**](#) *(Link coming soon)*
+[**Get it from Microsoft Store**](https://apps.microsoft.com/detail/9p789v7kg3z3)
 
 ## Roadmap
 
@@ -69,11 +69,10 @@ We are constantly improving Nuvopad. Here is what's on the horizon:
 *   [ ] **Plugin System**: Community-driven extensions to add new capabilities.
 *   [ ] **Vim Mode**: Enhanced keybindings for modal editing.
 
-## Support the Developer
+## <a id="support"></a>Support the Developer
 
 Nuvopad is built with passion. If you find value in this tool and wish to support its continued development, consider becoming a patron or buying me a coffee. Your support directly funds new features and maintenance.
 
-*   [**Patreon**](https://patreon.com/miztizm)
 *   [**Buy Me a Coffee**](https://buymeacoffee.com/miztizm)
 
 ---
